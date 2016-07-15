@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="wikipediaApp">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head
+         content must come *after* these tags -->
+
+    <title>Wikipedia Search</title>
+	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+	<link rel="stylesheet" href="wikipediastyles.css">
+	<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+	<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+	
+	</head>
+
+<body>
+
+	<div class="container-fluid" ng-controller="WikiSearch" >
+		<div class="row search" >
+				<div class="col col-xs-12 header">
+					wikipedia viewer
+				</div>
+				
+				<div class="col-xs-12">
+					<form class="form-inline" role="search">
+						<div class="form-group">
+							<input type="text" class="form-control" name="searchvalue" id="searchvalue"  placeholder="Search">
+						</div>
+						<div class="form-group">
+							<button type="submit" class="btn btn-primary" ng-click="search()">Search</button>
+						</div>
+						
+					</form>
+					
+				</div>
+				<div class="col col-xs-12 " >
+					<div class="random_article" >
+						<a href="http://en.wikipedia.org/wiki/Special:Random" target="_blank" style="color:rgb(225,122,17)">Click here for random article</a>
+					</div>
+				</div>
+			
+		</div>
+		<div class="row content">
+			<div class="col-xs-12" ng-repeat="result in results">
+				
+				<div class="col-xs-12">
+				<a ng-href="{{result.page}}" target="_blank">
+			
+				<blockquote>
+					
+					<span class="heading">{{result.title}}</span>
+					
+					<p>{{result.body}}</p>
+				</blockquote>
+				</a>
+				</div>
+			</div>
+			
+		</div>
+		
+	</div>
+	
+	<script src="controller.js"></script>
+</body>
+</html>

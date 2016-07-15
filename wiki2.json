@@ -1,0 +1,145 @@
+/**/JSON_CALLBACK({
+	"batchcomplete": "",
+	"continue": {
+		"gsroffset": 10,
+		"continue": "gsroffset||"
+	},
+	"query": {
+		"pages": {
+			"38350898": {
+				"pageid": 38350898,
+				"ns": 0,
+				"title": "Gandhi Bhawan, Chandigarh",
+				"index": 8,
+				"thumbnail": {
+					"source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Gandhi_Bhawan_at_Punjab_University.jpg/50px-Gandhi_Bhawan_at_Punjab_University.jpg",
+					"width": 50,
+					"height": 33
+				},
+				"pageimage": "Gandhi_Bhawan_at_Punjab_University.jpg",
+				"extract": "The Gandhi Bhawan is a major landmark of the city of Chandigarh, India, and a center dedicated to the study of the words and works of Mohandas K. Gandhi."
+			},
+			"32828626": {
+				"pageid": 32828626,
+				"ns": 0,
+				"title": "Gandhi Memorial Museum, Madurai",
+				"index": 4,
+				"thumbnail": {
+					"source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Gandhi_Memorial_Museum.jpg/50px-Gandhi_Memorial_Museum.jpg",
+					"width": 50,
+					"height": 33
+				},
+				"pageimage": "Gandhi_Memorial_Museum.jpg",
+				"extract": "Gandhi Memorial Museum, established in 1959, is a memorial museum for Gandhi located in the city of Madurai in Tamil Nadu, India."
+			},
+			"7214197": {
+				"pageid": 7214197,
+				"ns": 0,
+				"title": "Gandhi cap",
+				"index": 9,
+				"thumbnail": {
+					"source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Nehru%27s_life%2C_depicted_in_a_poster_probably_from_the_1950%27s.jpg/36px-Nehru%27s_life%2C_depicted_in_a_poster_probably_from_the_1950%27s.jpg",
+					"width": 36,
+					"height": 50
+				},
+				"pageimage": "Nehru's_life,_depicted_in_a_poster_probably_from_the_1950's.jpg",
+				"extract": "The Gandhi cap (Hindi: \u0917\u093e\u0902\u0927\u0940 \u091f\u094b\u092a\u0940) is a white coloured sidecap, pointed in front and back and having a wide band."
+			},
+			"4855827": {
+				"pageid": 4855827,
+				"ns": 0,
+				"title": "List of roads named after Mahatma Gandhi",
+				"index": 10,
+				"thumbnail": {
+					"source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MG_Road.jpg/50px-MG_Road.jpg",
+					"width": 50,
+					"height": 38
+				},
+				"pageimage": "MG_Road.jpg",
+				"extract": "Mahatma Gandhi Road which is also used in its abbreviated form as M. G. Road, named after Mahatma Gandhi."
+			},
+			"19379": {
+				"pageid": 19379,
+				"ns": 0,
+				"title": "Mahatma Gandhi",
+				"index": 1,
+				"thumbnail": {
+					"source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Portrait_Gandhi.jpg/33px-Portrait_Gandhi.jpg",
+					"width": 33,
+					"height": 50
+				},
+				"pageimage": "Portrait_Gandhi.jpg",
+				"extract": "Mohandas Karamchand Gandhi (/\u02c8\u0261\u0251\u02d0ndi, \u02c8\u0261\u00e6n-/; Hindustani: [\u02c8mo\u02d0\u0266\u0259nd\u032aa\u02d0s \u02c8k\u0259r\u0259mt\u0283\u0259nd\u032a \u02c8\u0261a\u02d0nd\u032a\u02b1i]; 2 October 1869 \u2013 30 January 1948) was the preeminent leader of the Indian independence movement in British-ruled India."
+			},
+			"12961461": {
+				"pageid": 12961461,
+				"ns": 0,
+				"title": "Mahatma Gandhi College",
+				"index": 6,
+				"thumbnail": {
+					"source": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Mahacolg.jpg/50px-Mahacolg.jpg",
+					"width": 50,
+					"height": 32
+				},
+				"pageimage": "Mahacolg.jpg",
+				"extract": "Mahatma Gandhi College (MG College) is situated in Thiruvananthapuram city (Trivandrum) in the state of Kerala, in India."
+			},
+			"24330446": {
+				"pageid": 24330446,
+				"ns": 0,
+				"title": "National Gandhi Museum",
+				"index": 5,
+				"thumbnail": {
+					"source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Gandhi_Bedroom.JPG/50px-Gandhi_Bedroom.JPG",
+					"width": 50,
+					"height": 38
+				},
+				"pageimage": "Gandhi_Bedroom.JPG",
+				"extract": "The National Gandhi Museum or Gandhi Memorial Museum is a museum located in New Delhi, India showcasing the life and principles of Mahatma Gandhi."
+			},
+			"22115410": {
+				"pageid": 22115410,
+				"ns": 0,
+				"title": "Nehru\u2013Gandhi family",
+				"index": 3,
+				"thumbnail": {
+					"source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Nehru_family.jpg/50px-Nehru_family.jpg",
+					"width": 50,
+					"height": 36
+				},
+				"pageimage": "Nehru_family.jpg",
+				"extract": "The Nehru\u2013Gandhi family is a prominent Indian political dynasty."
+			},
+			"10375928": {
+				"pageid": 10375928,
+				"ns": 0,
+				"title": "Rajiv Gandhi Memorial",
+				"index": 2,
+				"thumbnail": {
+					"source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Kanchipuram_district.jpg/50px-Kanchipuram_district.jpg",
+					"width": 50,
+					"height": 50
+				},
+				"pageimage": "Kanchipuram_district.jpg",
+				"extract": "The Rajiv Gandhi Memorial is a memorial to Indian prime minister Rajiv Gandhi at the site where he was assassinated at Sriperumbudur, India."
+			},
+			"1778000": {
+				"pageid": 1778000,
+				"ns": 0,
+				"title": "Tushar Gandhi",
+				"index": 7,
+				"thumbnail": {
+					"source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Tushar_Arun_Gandhi_-_Kolkata_2014-02-04_8453.JPG/33px-Tushar_Arun_Gandhi_-_Kolkata_2014-02-04_8453.JPG",
+					"width": 33,
+					"height": 50
+				},
+				"pageimage": "Tushar_Arun_Gandhi_-_Kolkata_2014-02-04_8453.JPG",
+				"extract": "Tushar Arun Gandhi (born 17 January 1960) is the son of journalist Arun Manilal Gandhi, grandson of Manilal Gandhi and great-grandson of Mahatma Gandhi."
+			}
+		}
+	},
+	"limits": {
+		"pageimages": 50,
+		"extracts": 20
+	}
+})

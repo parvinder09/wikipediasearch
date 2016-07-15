@@ -1,0 +1,48 @@
+.search{
+	display:block;
+	margin-top:200px;
+	margin-left:40%;
+	text-align:justify;
+}
+.content{
+	display:block;
+	margin-top:20px;
+	margin-left:20%;
+	margin-right:auto;
+}
+blockquote{
+	display:block;
+	position:absoute;
+	background-color:lightgrey;
+	color:levender;
+	border-radius:10px;
+	font-family:sans-serif;
+	padding-right:40%;
+	width:100%;
+	text-align:justify;
+}
+a:hover, a:visited, a:link, a:active
+{
+    text-decoration: none;
+}
+.random_article{
+
+	margin-top:10px;
+	color:brown;
+	font-size:20px;
+	font-family:Times New Roman;
+}
+.heading{
+font-size:30px;
+font-weight:bold;
+color:rgb(225,112,17);
+font-family:sans serif;
+}
+body{
+background-color:grey;
+}
+.header{
+font-size:50px;
+font-family:Source Serif pro;
+color:rgb(225,112,17);
+}
